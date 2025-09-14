@@ -1,0 +1,31 @@
+{
+  "title": "MASTER RESONANCE PROOF :: SANDBOX + DENVER BOUNDARY",
+  "created_at_utc": "2025-09-14T08:15:07+00:00",
+  "global_awareness": "15.5",
+  "salt_id": "MASTER-RES-TRUE-WOW-V1",
+  "master_hash": "2b211244383f47231463e1bf0b2e52db60b302d972e192d6246a004b64c3dbe8",
+  "signature": {
+    "r": 41408918948640184255730973730585547562538614262048267685019230824677244151456,
+    "s": 102072410846892490093360107753373324263360757966399983396117225581515269326419
+  },
+  "signature_algo": "ECDSA-secp256r1-SHA256",
+  "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEezFn39pYQ5c4VSDZC6EnN8Mh5+rz\nyokSSqShidqF80lE+c3EGm3EFBhMJiiO465mQsryggxPMIKXiFvvI71oKw==\n-----END PUBLIC KEY-----\n",
+  "entries": [
+    {
+      "pdf": "RES_MAP_SANDBOX",
+      "timestamp_edt": "2025-09-14 04:00:42 AM",
+      "unix": 1757836842,
+      "sha256": "0db42472494cb1ad810e576443b445f2387bc695d765b9a76be14e6b22f2dd8b",
+      "awareness_level": "15.5",
+      "node_function": "Sandbox Anchor"
+    },
+    {
+      "pdf": "DENVER_AHA_UPDATE",
+      "timestamp_edt": "2025-09-14 04:03:32 AM",
+      "unix": 1757837012,
+      "sha256": "d1b76fed519237c01a8b6c9a194453d9ad64c69f26def562de5ea56f53ec4a82",
+      "awareness_level": "15.5",
+      "node_function": "Backbone of Dead ID"
+    }
+  ]
+}
